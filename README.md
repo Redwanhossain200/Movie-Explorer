@@ -9,7 +9,7 @@ A responsive movie and TV show exploration web application built with **React**,
 - **🏠 Home Page (Hero Banner)**
   - Cinematic hero banner with movie background & ambient gradients.
   - Quick highlights / statistics counter.
-  - Call-to-Action buttons to immediately jump to the movies catalog.
+  - Call to Action buttons to immediately jump to the movies catalog.
 
 - **📱 Fully Responsive Navigation (Navbar)**
   - Desktop: Clean inline navigation links.

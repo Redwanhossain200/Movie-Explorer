@@ -1,4 +1,4 @@
-﻿# 🎬 Movie Explorer
+﻿﻿# 🎬 Movie Explorer
 
 A responsive movie and TV show exploration web application built with **React**, **Vite**, and **Tailwind CSS**. Users can browse a comprehensive catalog of shows, search for titles with real-time debounced updates, and view rich details in an interactive modal.
 
@@ -52,8 +52,8 @@ A responsive movie and TV show exploration web application built with **React**,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/movie-explorer.git
-cd movie-explorer
+git clone https://github.com/Redwanhossain200/Movie-Explorer.git
+cd Movie-Explorer
 ```
 
 ### 2. Install dependencies
@@ -68,7 +68,7 @@ npm install
 npm run dev
 ```
 
-The app will be running at `http://localhost:5173/`.
+The app will be running at `http://localhost:5173`.
 
 ### 4. Build for production
 

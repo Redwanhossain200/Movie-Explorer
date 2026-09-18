@@ -1,6 +1,6 @@
 ﻿﻿# 🎬 Movie Explorer
 
-A responsive movie and TV show exploration web application built with **React**, **Vite**, and **Tailwind CSS**. Users can browse a comprehensive catalog of shows, search for titles with real-time debounced updates, and view rich details in an interactive modal.
+A responsive movie and TV show exploration web application built with **React**, **Vite**, and **Tailwind CSS**. Users can browse a comprehensive catalog of shows, search for titles with real time debounced updates, and view rich details in an interactive modal.
 
 ---
 
@@ -13,7 +13,7 @@ A responsive movie and TV show exploration web application built with **React**,
 
 - **📱 Fully Responsive Navigation (Navbar)**
   - Desktop: Clean inline navigation links.
-  - Mobile: Interactive slide-out **Hamburger Menu** with smooth touch-friendly controls.
+  - Mobile: Interactive slide out **Hamburger Menu** with smooth touch friendly controls.
 
 - **🔍 Live Movie Search**
   - Prominent search bar with instant 400ms debouncing (no lag, optimal requests).
